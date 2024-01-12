@@ -1,1 +1,3 @@
-# Precision-Library
+# MPAL
+
+Mixed-Precision Analysing Library
